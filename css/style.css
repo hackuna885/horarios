@@ -1,0 +1,59 @@
+* {
+  margin: 0px;
+  padding: 0px; }
+
+html {
+  width: 100%;
+  height: 100%; }
+
+body {
+  background-color: #23153C; }
+
+#vanta-canvas {
+  width: 100%;
+  height: 100vh; }
+
+.cuandroUno {
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  margin: 50px 0px;
+  background-color: rgba(35, 21, 60, 0.7);
+  border: solid 2px #7DCB32;
+  border-radius: 10px; }
+
+.centrado {
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.verde {
+  color: #7DCB32; }
+
+ul li {
+  list-style: none; }
+
+ul {
+  padding: 0px; }
+
+a:link {
+  color: #ffffff;
+  text-decoration: none; }
+
+a:visited {
+  color: #ffffff;
+  text-decoration: none; }
+
+a:active {
+  color: #ffffff;
+  text-decoration: none; }
+
+a:hover {
+  color: #7DCB32;
+  text-decoration: none; }
+
+.fontGrande {
+  font-size: 2em;
+  margin: 5px; }
+
+/*# sourceMappingURL=style.css.map */
